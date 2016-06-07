@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit(); echo ($aa); ?>ACTION_SUFFIX
